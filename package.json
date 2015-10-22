@@ -1,0 +1,15 @@
+{
+  "name": "accounts-fb-hook",
+  "version": "1.0.0",
+  "description": "Hook for Facebook login",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "precommit-hook": "lastest"
+  },
+  "scripts": {
+    "lint": "jshint ."
+  },
+  "author": "Astrocoders",
+  "license": "MIT"
+}
