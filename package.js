@@ -2,7 +2,7 @@ Package.describe({
   name: 'astrocoders:accounts-fb-hook',
   version: '0.0.1',
   summary: 'Grabs user\'s Facebook info and save them in profile.',
-  git: '',
+  git: 'https://github.com/Astrocoders/meteor-accounts-fb-hook',
   documentation: 'README.md'
 });
 
